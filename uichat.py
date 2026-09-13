@@ -1,4 +1,4 @@
-```python
+
 import re
 import streamlit as st
 
@@ -447,4 +447,4 @@ if prompt:
                     "API token, model availability, "
                     "or try again later."
                 )
-```
+
