@@ -15,7 +15,7 @@ st.set_page_config(
 # Model
 llm=HuggingFaceEndpoint(
     repo_id="deepseek-ai/DeepSeek-R1",
-    max_new_tokens=10
+    max_new_tokens=200
 )
 
 model=ChatHuggingFace(llm=llm)
