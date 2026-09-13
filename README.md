@@ -95,7 +95,7 @@ The application is built using **Python, Streamlit, LangChain, and Hugging Face*
 ```text
 moodmind-ai-chatbot/
 │
-├── app.py
+├── uichat.py
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
